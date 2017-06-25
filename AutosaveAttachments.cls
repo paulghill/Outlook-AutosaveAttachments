@@ -29,7 +29,7 @@ Public WithEvents SaveAttachmentsFolder As Outlook.Items
 'Sets event to watch a folder for new items
 Private Sub Application_Startup()
     'Comment the line below out if you wish to use a specific
-    Set SaveAttachmentsFolder = ns.GetDefaultFolder(olFolderInbox).Items
+    Set SaveAttachmentsFolder = Application.Session.GetDefaultFolder(olFolderInbox).Items
     
     'If you uncomment this line, make sure you have the constant FolderId set to the
     'correct value and comment the Set SaveAttachmentsFolder line above.  Only one of 
