@@ -12,9 +12,6 @@ have the same name, but vary in content.  In this situation, you would not want 
 overwrite the file each time it is saved, so a unique identifer needs to be used to prevent
 this.  You can, of course, use your own method for naming the save file for the attachments.
 
-I will post a video when possible on how to use this script if you are not familiar with coding
-but need use of this.
-
 ### Tutorials
 
 Installation:  https://youtu.be/vg45ifYd-Co
