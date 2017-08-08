@@ -15,6 +15,10 @@ this.  You can, of course, use your own method for naming the save file for the 
 I will post a video when possible on how to use this script if you are not familiar with coding
 but need use of this.
 
+### Tutorials
+
+Installation:  https://youtu.be/vg45ifYd-Co
+
 ### CONTACT INFORMATION
     Paul Hill
     paul@hillsys.org
